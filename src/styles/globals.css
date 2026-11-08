@@ -1,0 +1,14 @@
+:root {
+  /*Bright-Mode Color-Vars*/
+}
+
+@media(prefers-color-scheme: dark) {
+  :root {
+    /*Dark-Mode Color-Vars*/
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
